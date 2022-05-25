@@ -1,0 +1,33 @@
+.link-deco{
+    text-decoration: none;
+    color: beige;
+
+} 
+.main-footer{
+    color:#ffffff;
+    background-color: rgb(7, 66, 7);
+    position:relative;
+    bottom: 0;
+    width:100%;
+    padding-top : 3em;
+    padding-bottom: 40px;
+    
+}
+.carousel-inner{
+    height: 500px;
+}
+.nav-link{
+    text-decoration: none;
+    color: black;
+}
+/* .col-8{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 20px;
+    padding-left: 20px;
+}  */
+span{
+    padding: 10px;
+    
+}
